@@ -1,0 +1,207 @@
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.exe.config
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.csprojResolveAssemblyReference.cache
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Form1.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Inventory_Control_System.LoginForm.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Properties.Resources.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.csproj.GenerateResource.Cache
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.exe
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.pdb
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.exe
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.pdb
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Main_Form.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.exe.licenses
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.UserProfile.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Agency.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Course.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.Batch_Details.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Bank.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.SET_OFF.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Deposit.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Petty_Cash.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Batch_Payments.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Controling.User_Control.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Controling.Back_UP_Form.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Course_ID.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Register_Training_Report.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Frm_Petty_cash.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Frm_Bank_Balance.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Profit_AND_Lost.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Cheque_Details.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Cusomer_Credit_Details.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.FRMBatchcreditPayment.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.exe.config
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.exe
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.pdb
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.exe
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.pdb
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.Batch_Details.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Agency.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Bank.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Course.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.UserProfile.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Controling.Back_UP_Form.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Controling.User_Control.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Form1.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Inventory_Control_System.LoginForm.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Main_Form.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Batch_Payments.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Deposit.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Petty_Cash.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.SET_OFF.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Course_ID.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Properties.Resources.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Cheque_Details.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Cusomer_Credit_Details.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.FRMBatchcreditPayment.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Frm_Bank_Balance.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Frm_Petty_cash.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Profit_AND_Lost.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Register_Training_Report.resources
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.csproj.GenerateResource.Cache
+D:\jude sir backup\Nilwalaa\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.exe.licenses
+D:\Softwares\Software 01\Soft\2015-04-22\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.exe.config
+D:\Softwares\Software 01\Soft\2015-04-22\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.exe
+D:\Softwares\Software 01\Soft\2015-04-22\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.pdb
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.exe.config
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.exe
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.pdb
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.exe
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.pdb
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.Batch_Details.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Agency.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Bank.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Course.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.UserProfile.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Controling.Back_UP_Form.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Controling.User_Control.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Form1.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Inventory_Control_System.LoginForm.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Main_Form.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Batch_Payments.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Deposit.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Petty_Cash.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.SET_OFF.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Course_ID.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Properties.Resources.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Cheque_Details.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Cusomer_Credit_Details.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.FRMBatchcreditPayment.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Frm_Bank_Balance.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Frm_Petty_cash.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Profit_AND_Lost.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Register_Training_Report.resources
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.csproj.GenerateResource.Cache
+D:\jude sir backup\Nilwalaa\2015-04-23 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.exe.licenses
+D:\My projects\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.exe.config
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.exe
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.pdb
+D:\My projects\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.exe
+D:\My projects\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.pdb
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.csprojResolveAssemblyReference.cache
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.Batch_Details.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Agency.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Bank.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Course.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.UserProfile.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Controling.Back_UP_Form.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Controling.User_Control.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Form1.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Inventory_Control_System.LoginForm.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Main_Form.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Batch_Payments.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Deposit.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Petty_Cash.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.SET_OFF.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Course_ID.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Properties.Resources.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Cheque_Details.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Cusomer_Credit_Details.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.FRMBatchcreditPayment.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Frm_Bank_Balance.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Frm_Petty_cash.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Profit_AND_Lost.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Register_Training_Report.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.csproj.GenerateResource.Cache
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.exe.licenses
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.exe.config
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.exe
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.pdb
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.exe
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.pdb
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.Batch_Details.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Agency.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Bank.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Course.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.UserProfile.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Controling.Back_UP_Form.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Controling.User_Control.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Form1.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Inventory_Control_System.LoginForm.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Main_Form.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Batch_Payments.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Deposit.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.OtherExpenses.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Petty_Cash.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.SET_OFF.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Course_ID.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Properties.Resources.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Cheque_Details.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Cusomer_Credit_Details.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.FRMBatchcreditPayment.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Frm_Bank_Balance.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Frm_Petty_cash.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Profit_AND_Lost.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Register_Training_Report.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.csproj.GenerateResource.Cache
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.exe.licenses
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.FRMPettyCashBook.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.FRMOtherExpenses.resources
+D:\jude sir backup\Nilwalaa\2015-04-30 After\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.MainCashbook.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.OtherExpenses.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.FRMOtherExpenses.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.FRMPettyCashBook.resources
+D:\My projects\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.MainCashbook.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.exe.config
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.csprojResolveAssemblyReference.cache
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.Batch_Details.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Agency.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Bank.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.New_Course.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Add_New.UserProfile.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Controling.Back_UP_Form.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Controling.User_Control.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Form1.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Inventory_Control_System.LoginForm.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Main_Form.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Batch_Payments.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Deposit.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.OtherExpenses.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Petty_Cash.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.SET_OFF.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Payments.Course_ID.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Properties.Resources.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Cheque_Details.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Cusomer_Credit_Details.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.FRMBatchcreditPayment.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.FRMOtherExpenses.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.FRMPettyCashBook.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Frm_Bank_Balance.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Frm_Petty_cash.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.MainCashbook.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Profit_AND_Lost.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala_Training_center.Report_Form.Register_Training_Report.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.csproj.GenerateResource.Cache
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.exe.licenses
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.exe
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\bin\Debug\Nilwala Training center.pdb
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\bin\Debug\mscorlib.dll
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\bin\Debug\normidna.nlp
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\bin\Debug\normnfc.nlp
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\bin\Debug\normnfd.nlp
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\bin\Debug\normnfkc.nlp
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\bin\Debug\normnfkd.nlp
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.exe
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Nilwala 2015-05-13\2015-05-13\Nilwala Training center\Nilwala Training center\Nilwala Training center\obj\Debug\Nilwala Training center.pdb

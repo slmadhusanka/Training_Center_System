@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="My_Data_SET_new" targetNamespace="http://tempuri.org/My_Data_SET_new.xsd" xmlns:mstns="http://tempuri.org/My_Data_SET_new.xsd" xmlns="http://tempuri.org/My_Data_SET_new.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Training_CenterConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Training_CenterConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Nilwala_Training_center.Properties.Settings.GlobalReference.Default.Training_CenterConnectionString1" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Trainee_Registration_DOC_DetailsTableAdapter" GeneratorDataComponentClassName="Trainee_Registration_DOC_DetailsTableAdapter" Name="Trainee_Registration_DOC_Details" UserDataComponentName="Trainee_Registration_DOC_DetailsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Training_CenterConnectionString1 (Settings)" DbObjectName="Training_Center.dbo.Trainee_Registration_DOC_Details" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT DISTINCT DOC_ID, Credit_Amount, Remain_amount, Total_Fee, Agency_ID, Agency_Name
+FROM            Trainee_Registration_DOC_Details</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="DOC_ID" DataSetColumn="DOC_ID" />
+              <Mapping SourceColumn="Credit_Amount" DataSetColumn="Credit_Amount" />
+              <Mapping SourceColumn="Remain_amount" DataSetColumn="Remain_amount" />
+              <Mapping SourceColumn="Total_Fee" DataSetColumn="Total_Fee" />
+              <Mapping SourceColumn="Agency_ID" DataSetColumn="Agency_ID" />
+              <Mapping SourceColumn="Agency_Name" DataSetColumn="Agency_Name" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="My_Data_SET_new" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="My_Data_SET_new" msprop:Generator_UserDSName="My_Data_SET_new">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Trainee_Registration_DOC_Details" msprop:Generator_TableClassName="Trainee_Registration_DOC_DetailsDataTable" msprop:Generator_TableVarName="tableTrainee_Registration_DOC_Details" msprop:Generator_TablePropName="Trainee_Registration_DOC_Details" msprop:Generator_RowDeletingName="Trainee_Registration_DOC_DetailsRowDeleting" msprop:Generator_RowChangingName="Trainee_Registration_DOC_DetailsRowChanging" msprop:Generator_RowEvHandlerName="Trainee_Registration_DOC_DetailsRowChangeEventHandler" msprop:Generator_RowDeletedName="Trainee_Registration_DOC_DetailsRowDeleted" msprop:Generator_UserTableName="Trainee_Registration_DOC_Details" msprop:Generator_RowChangedName="Trainee_Registration_DOC_DetailsRowChanged" msprop:Generator_RowEvArgName="Trainee_Registration_DOC_DetailsRowChangeEvent" msprop:Generator_RowClassName="Trainee_Registration_DOC_DetailsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DOC_ID" msprop:Generator_ColumnVarNameInTable="columnDOC_ID" msprop:Generator_ColumnPropNameInRow="DOC_ID" msprop:Generator_ColumnPropNameInTable="DOC_IDColumn" msprop:Generator_UserColumnName="DOC_ID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Credit_Amount" msprop:Generator_ColumnVarNameInTable="columnCredit_Amount" msprop:Generator_ColumnPropNameInRow="Credit_Amount" msprop:Generator_ColumnPropNameInTable="Credit_AmountColumn" msprop:Generator_UserColumnName="Credit_Amount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Remain_amount" msprop:Generator_ColumnVarNameInTable="columnRemain_amount" msprop:Generator_ColumnPropNameInRow="Remain_amount" msprop:Generator_ColumnPropNameInTable="Remain_amountColumn" msprop:Generator_UserColumnName="Remain_amount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Total_Fee" msprop:Generator_ColumnVarNameInTable="columnTotal_Fee" msprop:Generator_ColumnPropNameInRow="Total_Fee" msprop:Generator_ColumnPropNameInTable="Total_FeeColumn" msprop:Generator_UserColumnName="Total_Fee" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Agency_ID" msprop:Generator_ColumnVarNameInTable="columnAgency_ID" msprop:Generator_ColumnPropNameInRow="Agency_ID" msprop:Generator_ColumnPropNameInTable="Agency_IDColumn" msprop:Generator_UserColumnName="Agency_ID" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Agency_Name" msprop:Generator_ColumnVarNameInTable="columnAgency_Name" msprop:Generator_ColumnPropNameInRow="Agency_Name" msprop:Generator_ColumnPropNameInTable="Agency_NameColumn" msprop:Generator_UserColumnName="Agency_Name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
